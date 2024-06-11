@@ -2,8 +2,11 @@
 
 A simple minesweeper project in Java using Swing.
 
-![image 0](image0.png)
-![image 1](image1.png)
-![image 2](image2.png)
-![image 3](image3.png)
-![image 4](image4.png)
+<div style="text-align: center;">
+  <img src="image0.png" alt="image 0" style="width: 300px;"/>
+  <img src="image1.png" alt="image 1" style="width: 300px;"/>
+  <img src="image2.png" alt="image 2" style="width: 300px;"/>
+  <img src="image3.png" alt="image 3" style="width: 300px;"/>
+  <img src="image4.png" alt="image 4" style="width: 300px;"/>
+</div>
+
