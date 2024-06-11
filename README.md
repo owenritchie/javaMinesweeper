@@ -1,4 +1,4 @@
-#Minesweeper In Java
+# Minesweeper In Java
 
 A simple minesweeper project in Java using Swing.
 
